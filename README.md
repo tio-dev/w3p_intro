@@ -8,7 +8,9 @@ Contexto
 
 - História do dinheiro
 - Bitcoin
+- Blockchain
 - Ethereum
+- Smart Contracts
 - Altcoins
 - Gerações de blockchains
 - Crédito de Carbono
